@@ -1,0 +1,19 @@
+## 🛠️ Hardware Used
+
+- STM32H723ZG Nucleo-144
+- INMP441 MEMS Microphone
+- I2S DAC / Audio Output Module
+- Push Button for bypass control
+- Status LED
+
+---
+
+## 💻 Software & Tools
+
+- Python
+- TensorFlow / Keras
+- NumPy, SciPy, Librosa
+- Matplotlib
+- STM32CubeIDE
+- CMSIS-DSP
+- CMSIS-NN
