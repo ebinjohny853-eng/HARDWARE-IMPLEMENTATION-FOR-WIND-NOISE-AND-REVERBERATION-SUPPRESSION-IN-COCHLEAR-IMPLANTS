@@ -1,0 +1,2 @@
+# HARDWARE-IMPLEMENTATION-FOR-WIND-NOISE-AND-REVERBERATION-SUPPRESSION-IN-COCHLEAR-IMPLANTS
+A real-time embedded speech enhancement system that improves speech intelligibility for cochlear implant users by suppressing wind noise and reverberation. The project combines Digital Signal Processing (DSP) and lightweight Machine Learning techniques, and is designed for deployment on the STM32H723ZG microcontroller.
